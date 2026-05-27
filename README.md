@@ -1,2 +1,2 @@
-# data-cleaning-techniques-
-data cleaning techniques 
+# Data Cleaning Techniques
+
